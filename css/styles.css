@@ -97,7 +97,7 @@ main .content #card-blog .card-content .card-category p, .author-name {
 }
 
 main .content #card-blog .card-content .card-publish-date {
-    font-size: clamp(0.8rem, 2vw, 1rem);
+    font-size: clamp(0.8rem, 3.5vw, 1rem);
     font-weight: 500;
     margin: 0;
 }
@@ -148,6 +148,6 @@ footer .attribution a {
 
 @media screen and (max-width: 376px) {
     main .content #card-blog {
-        width: 327px;
+        max-width: 327px;
     }
 }
