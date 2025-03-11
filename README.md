@@ -95,7 +95,7 @@ I only take a guess for the preferred value so it can be suitable for medium scr
 
 ### Continued development
 
-I want to deepened my knowledge of how to calculate the preferred value as a medium value within the range. I think it will helpful because the middle value will be suit for medium screen.
+I want to deepened my knowledge of how to calculate the preferred value as a medium value within the range. I think it will be helpful because the middle value will be suit for medium screen.
 
 ### Useful resources
 
